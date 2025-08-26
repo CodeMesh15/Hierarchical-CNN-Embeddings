@@ -1,0 +1,15 @@
+# For Data Processing
+nltk
+tqdm
+
+# Core ML and Deep Learning
+torch
+numpy
+
+# For Evaluation
+scikit-learn
+scipy
+pandas
+
+# For saving/loading models and data
+joblib
